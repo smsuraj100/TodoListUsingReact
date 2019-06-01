@@ -11,12 +11,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-#container {
-  display: flex;
-  justify-content: center;
-  flex-direction: column-reverse;
-}
-
 .todoListMain .header {
   font-style: bold;
   color: #ff9478;
